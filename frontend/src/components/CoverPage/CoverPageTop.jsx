@@ -17,7 +17,7 @@ export default function CoverPageTop({ setIsCover }) {
 
             <div className="coverpageRightDiv">
 
-                <p>URBAN COMPANY</p>
+                <p> helpkart</p>
                 <p>Quality homeservices , on demand</p>
 
                 <p>Experienced, hand-picked Professionals to serve you at your doorstep</p>

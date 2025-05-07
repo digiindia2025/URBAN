@@ -8,7 +8,7 @@ export default function MidPart() {
         <div className="CP-MidPartMainDiv">
 
 
-            <p className="CP-para1 CP-P0">Why Urban Company?</p>
+            <p className="CP-para1 CP-P0">Why  helpkart?</p>
 
             <p className="CP-para1 CP-P1">Transparent pricing</p>
             <p className="CP-para2 CP-P2">See fixed prices before you book. No hidden charges.</p>
